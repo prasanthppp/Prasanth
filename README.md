@@ -16,7 +16,15 @@ First page
  </header>
     <main>
     <h3>  check out these cool moves</h3>
-      <p>Hi guys! This is prasanth.for any help conatact ne</p>
+      <p>Hi guys! This is prasanth.for any help conatact me</p>
+<p> ## 👋 Hey there!
+
+I'm currently learning and growing in the world of hardware development 
+This GitHub is a space where I explore, experiment, and improve step by step.  
+Feel free to check out my progress or share tips with me!
+
+> "Every pro was once an amateur."
+</p>
     </main>
       <footer>
         author:prasanth
