@@ -19,6 +19,8 @@ First page
       <p>Hi guys! This is prasanth.for any help conatact me</p>
 <p> ## 👋 Hey there!
 
+I'm an Electrical Engineering student at Jntuacea Anthapuram with a strong interest in VLSI Design and Embedded Systems. I'm passionate about blending hardware and software to build smart, efficient systems that solve real-world problems.
+
 I'm currently learning and growing in the world of hardware development 
 This GitHub is a space where I explore, experiment, and improve step by step.  
 Feel free to check out my progress or share tips with me!
